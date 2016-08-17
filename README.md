@@ -1,0 +1,2 @@
+# WCF_Ajax_CrossDomain
+在控制台程序中承载wcf服务，并提供soap和web访问以及ajax的跨域访问
