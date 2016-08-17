@@ -1,0 +1,7 @@
+/WcfServiceLibrary1
+/.vs
+/packages
+/WcfService
+*.sln
+bin
+obj
